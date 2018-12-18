@@ -4,7 +4,7 @@ All the contents are from [http://www.runoob.com/python3/python3-tutorial.html](
  - Python Version (3.7.0)
  - [Jupyter notebook](https://jupyter.org/)
 
-##基础部分
+## 基础部分
 1. Python3 **教程**
 2. Python3 环境搭建
 3. Python3 **基础语法**
@@ -33,7 +33,7 @@ All the contents are from [http://www.runoob.com/python3/python3-tutorial.html](
 26. Python3 标准库概览
 27. Python3 实例
 
-##高级部分
+## 高级部分
 1. Python3 正则表达式
 2. Python3 CGI编程
 3. Python3 MySQL(mysql-connector)
