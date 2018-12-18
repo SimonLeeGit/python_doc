@@ -13,7 +13,7 @@ All the contents are from [http://www.runoob.com/python3/python3-tutorial.html](
 6. Python3 **注释**
 7. Python3 **运算符**
 8. Python3 **数字(Number)**
-9. Python3 字符串
+9. Python3 **字符串**
 10. Python3 列表
 11. Python3 元组
 12. Python3 字典
